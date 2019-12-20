@@ -10,13 +10,15 @@
 |              sticky_table_header           |
 ----------------------------------------------
 
+OdooTree视图表头固定
+
 Stick the list view table header on top and help to relate the table content with their header. 
 Very helpful for a huge list view .
 
     """,
 
-    'author': "Deepak Dixit",
-    'website': "deepakdixit0001@gmail.com",
+    'author': "LiuHui",
+    'website': "lbt919@qq.com",
 
     'category': 'Widget',
     'version': '0.1',
